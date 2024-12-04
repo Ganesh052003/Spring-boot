@@ -1,0 +1,5 @@
+# Created at 2024-12-03T22:30:24.047
+Boot Manifest-JAR contains absolute paths in classpath 'E:\PortFolio\Trade-ap\TradeSathi\Backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
